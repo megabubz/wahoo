@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One&display=swap');
+body {
+      
+      font: 15px Quicksand, sans-serif;
+      line-height: 1.8;
+      color: #fefeff;
+  }
+
+.margin {font-weight: bold;
+         font: 45px Fjalla One, sans-serif;
+}
+.bg { 
+      background-image: url("backgroud.jpg");
+      background-size: 50%;
+      background-repeat: repeat;
+      text-align: center;
+      color: #555555;
+  }
+.bg-1 { 
+      background-color: #ff4000;
+      color: #555555;
+  }
+.bg-1 input[type="submit"] {
+  background-color: #555555;
+  color: #fefeff;
+}
+.bg-1 form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 20px;  
+}
+ .container {
+     width:500px;
+  }
+.bg-2 { 
+      background-color: #ffffff;
+      color: #555555;
+       font: 15px;
+  }
