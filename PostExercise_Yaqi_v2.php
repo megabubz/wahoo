@@ -28,8 +28,8 @@
         <?php
         if (!empty($_POST)) {
             echo "<h3>Welcome $_POST[username]</h3>"; 
-            echo "<h3>Your email address is $_POST[email]</h3>";
-            echo "<h3>Your date of birth is $_POST[birthdate]</h3>";
+            echo "<h3>Your EEEEEEMMMMMAAAAIIIILLLLLLLLL is $_POST[email]</h3>";
+            echo "<h3>Your DDDAAATTTTEEEE OFFFF BIIIRRRTHHHH is $_POST[birthdate]</h3>";
             echo "<h3>You live in $_POST[country]</h3>";
         }
         else{
