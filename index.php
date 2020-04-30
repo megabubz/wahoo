@@ -25,7 +25,10 @@
 <link rel="icon" href="/docs/4.4/assets/img/favicons/favicon.ico">
 <meta name="msapplication-config" content="/docs/4.4/assets/img/favicons/browserconfig.xml">
 <meta name="theme-color" content="#563d7c">
+<<<<<<< HEAD
 <p>hello there</p>
+=======
+>>>>>>> 7e20015206f31dd281f10bf395b7f83393e1829b
 
 
     <style>
